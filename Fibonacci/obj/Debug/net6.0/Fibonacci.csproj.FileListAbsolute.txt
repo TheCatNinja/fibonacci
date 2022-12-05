@@ -1,0 +1,15 @@
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+D:\Milena Milewska\Pulpit\Praktyki\Zadania\Fibonacci\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll

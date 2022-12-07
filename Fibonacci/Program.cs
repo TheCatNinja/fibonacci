@@ -149,8 +149,7 @@ static string GetAndCheckFile()
     filePath = CheckIfFileExists(filePath);
 
     string[] array = System.IO.File.ReadAllLines(filePath);
-    int cont = -1;
-    while(cont == -1)
+    while(array.Length == 0 || array.Length > 1)
     {
         if(array.Length == 0)
         {

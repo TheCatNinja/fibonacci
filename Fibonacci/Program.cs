@@ -149,21 +149,20 @@ static string GetAndCheckFile()
     filePath = CheckIfFileExists(filePath);
 
     string[] array = System.IO.File.ReadAllLines(filePath);
-    while(array.Length == 0)
+    int cont = -1;
+    while(cont == -1)
     {
-        Console.WriteLine("\nThe file is empty.\n" +
-            "Please enter another file path.\n");
-
-        filePath = Console.ReadLine();
-        CheckIfFileExists(filePath);
-        array = File.ReadAllLines(filePath);
-    }
-    while (array.Length > 1)
-    {
-        Console.WriteLine("\nThe file contains more than 1 line.\n" +
-            "This application can only take one number.\n" +
-            "Please enter another file path.\n");
-
+        if(array.Length == 0)
+        {
+            Console.WriteLine("\nThe file is empty.\n" +
+                "Please enter another file path.\n");
+        }
+        if(array.Length > 1)
+        {
+            Console.WriteLine("\nThe file contains more than 1 line.\n" +
+                "This application can only take one number.\n" +
+                "Please enter another file path.\n");
+        }
         filePath = Console.ReadLine();
         CheckIfFileExists(filePath);
         array = File.ReadAllLines(filePath);
